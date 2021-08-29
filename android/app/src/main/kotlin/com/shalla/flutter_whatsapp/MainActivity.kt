@@ -1,0 +1,6 @@
+package com.shalla.flutter_whatsapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
